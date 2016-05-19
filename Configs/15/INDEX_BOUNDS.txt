@@ -1,0 +1,3 @@
+TotalAlligned	209
+MotionnOffset	1
+VideoooOffset	0
